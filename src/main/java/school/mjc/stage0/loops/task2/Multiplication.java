@@ -5,7 +5,7 @@ public class Multiplication {
         int result;
         if (multiplyByAndToInclusive == 0)
         {
-            System.out.println("\"\"");
+            System.out.print("");
         }
         else{
             if (0>multiplyByAndToInclusive)
